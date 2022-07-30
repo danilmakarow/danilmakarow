@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @danilmakarow
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Danil Makarov
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning Web-design & Web development
+- 💞️ I’m looking to collaborate on Web-Development
+
 
 <!---
 danilmakarow/danilmakarow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
