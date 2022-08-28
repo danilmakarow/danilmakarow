@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danil Makarov
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning Web-design & Web development
+- 🌱 I’m currently learning JavaScript Fundamentals
 - 💞️ I’m looking to collaborate on Web-Development
 
 
