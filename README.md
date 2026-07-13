@@ -1,6 +1,6 @@
 # Hi, I'm Danil 👋
 
-Senior Software Engineer (JavaScript / TypeScript) who works across the whole stack — **React** & **Next.js** **Tenstack** on the front, **NestJS** on the back, and lately **Swift / SwiftUI** on iOS. I spend my days in fintech / legaltech and build side projects around AI tooling, developer experience, and Telegram / iOS apps.
+Senior Software Engineer (JavaScript / TypeScript) who works across the whole stack — **React** & **React-router** / **Tenstack** /  **Next.js** on the front, **NestJS** on the back, and lately **Swift / SwiftUI** on iOS. I spend my days in fintech / legaltech and build side projects around AI tooling, developer experience, and Telegram / iOS apps.
 
 ### What I'm building
 
