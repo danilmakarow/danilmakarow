@@ -2,6 +2,8 @@
 
 Senior Software Engineer (JavaScript / TypeScript) who works across the whole stack — **React** & **React-router** / **Tenstack** /  **Next.js** on the front, **NestJS** on the back, and lately **Swift / SwiftUI** on iOS. I spend my days in fintech / legaltech and build side projects around AI tooling, developer experience, and Telegram / iOS apps.
 
+**[My LinkedIn](https://www.linkedin.com/in/danil-makarov/)**
+
 ### What I'm building
 
 - **[Cue](https://github.com/danilmakarow/cue-ios)** — a SwiftUI iOS planner (tasks, recurrences, calendar, Siri & Telegram), powered by a **[NestJS API](https://github.com/danilmakarow/cue-api)**.
